@@ -1,3 +1,3 @@
-# photometry_gui
+# photogrammetry_gui
 
-photometry_gui 프로젝트
+photogrammetry_gui 프로젝트
